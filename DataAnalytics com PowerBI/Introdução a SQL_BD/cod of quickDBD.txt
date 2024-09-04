@@ -1,0 +1,19 @@
+Usuarios
+-
+ID PK int
+nome string
+data date
+endereco string
+
+Destino
+-
+ID int
+nome string
+descricao string
+endereco string
+
+Reservas
+-
+id int
+id_usuario int FK >- Usuarios.ID
+id_destino int FK >- Destino.ID
