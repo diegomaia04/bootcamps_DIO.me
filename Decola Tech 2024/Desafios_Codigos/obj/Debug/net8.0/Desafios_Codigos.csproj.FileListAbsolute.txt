@@ -1,0 +1,14 @@
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\bin\Debug\net8.0\Desafios_Codigos.exe
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\bin\Debug\net8.0\Desafios_Codigos.deps.json
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\bin\Debug\net8.0\Desafios_Codigos.runtimeconfig.json
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\bin\Debug\net8.0\Desafios_Codigos.dll
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\bin\Debug\net8.0\Desafios_Codigos.pdb
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.AssemblyInfoInputs.cache
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.AssemblyInfo.cs
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.csproj.CoreCompileInputs.cache
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.dll
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\refint\Desafios_Codigos.dll
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.pdb
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\Desafios_Codigos.genruntimeconfig.cache
+C:\Users\maiad\Downloads\DIO.me_Linguagem C#\Desafios_Codigos\obj\Debug\net8.0\ref\Desafios_Codigos.dll
