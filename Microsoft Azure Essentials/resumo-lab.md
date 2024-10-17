@@ -31,3 +31,18 @@ Benefícios da Nuvem
 Criando maquinas virtuais na Azure
 
 	O que significa SLA: " Service Level Agreement" Trata-se de um contrato que estabelece os direitos e as obrigações entre contratado e contratante, visando alinhas expectavas e garantir o cumprimento da qualidade 
+
+ IaaS, PaaS e SaaS na Azure
+
+	
+	- Descrever a Iaas ( infraestrutura como serviço )
+		- IaaS é um modelo de computação em nuvem que fornece acesso sob demanda a recurso de computação, como servidores, armazenamento, rede e virtualização. Em vez de comprar e gerenciar seus próprios equipamentos físicos, as empresas podem alugar esses recursos de um provedor IaaS, como google clound, AWS, etc.
+	- Descrever a Paas ( plataforma como serviço).
+		- Paas é um modelo de computação em nuvem que fornece aos desenvolvedores uma plataforma para construir, implantar e gerenciar aplicativos sem se preocupar com a infraestrutura subjacente
+	- Descrever Software como Serviço ( SaaS )
+		- é um modelo de distribuição de software onde o provedor hospeda aplicativos e os disponibiliza aos clientes pela internet. Em vez de instalar e manter o software em seus próprios computadores, os clientes  acessam o aplicativo por meio de um navegador web ou AP
+	- Identificar os casos de usos apropriados para cada serviço de nuvem 
+
+		- IAAS: O serviço de nuvem mais flexível, você configura e gerencia o hardware para seu aplicativo
+		- PAAS: Focado no desenvolvimento de aplicativos, O gerenciamento de plataforma e realizado pela nuvem, modelo de preço  de pagamento conforme o usos
+		- SAAS? Modelo de preco de pagamento conforme o uso, os usuarios pagam pelo sofware que utilizam em um modelo de assinatura
